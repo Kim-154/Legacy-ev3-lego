@@ -1,5 +1,7 @@
 # Legacy 🤖
 
+Built in 2024 📅
+
 LEGO Mindstorms EV3 robot simple experimented program.
 
 ## What it does
